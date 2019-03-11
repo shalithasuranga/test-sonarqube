@@ -3,4 +3,4 @@ const info = {
     test2: 'Sonar'
 };
 
-console.log(info);
+console.log(info.test3);

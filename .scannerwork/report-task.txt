@@ -1,0 +1,7 @@
+organization=shalithasuranga-github
+projectKey=shalithasuranga_test-sonarqube
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.22487
+dashboardUrl=https://sonarcloud.io/dashboard?id=shalithasuranga_test-sonarqube
+ceTaskId=AWlrpAoTWtzwaoOZzN6V
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWlrpAoTWtzwaoOZzN6V
